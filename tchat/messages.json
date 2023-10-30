@@ -1,0 +1,50 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "What is 2+2?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "2 + 2 equals 4.",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "And 3 more?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "If you add 3 more to 2 + 2, the result is 7.",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "What is 5 times 6?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "5 times 6 equals 30.",
+            "additional_kwargs": {},
+            "example": false
+        }
+    }
+]
